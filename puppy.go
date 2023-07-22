@@ -16,5 +16,6 @@ func Barks() string {
 }
 
 func Test_item() string {
+	fmt.Println("Running test item")
 	return "test"
 }
