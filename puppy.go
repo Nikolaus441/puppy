@@ -23,3 +23,7 @@ func Test_item() string {
 func From13() {
 	fmt.Println("I am from v1.3.0")
 }
+
+func From14() {
+	fmt.Println("I am from v1.4.0")
+}
