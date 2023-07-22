@@ -14,3 +14,7 @@ func Bark() string {
 func Barks() string {
 	return "Woof! Woof! Woof!"
 }
+
+func Test_item() string {
+	return "test"
+}
